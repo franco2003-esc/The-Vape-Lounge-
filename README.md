@@ -1,4 +1,4 @@
-# The-Vape-Lounge-
+The-Vape-Lounge-
 HCI 399 – P3 PROJECT
 
 GROUP NO: 2
