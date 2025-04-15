@@ -2,15 +2,6 @@
 HCI 399 – P3 PROJECT
 
 GROUP NO: 2
-LEADER: Canino, Raven Jay
-MEMBERS:
-Acero, James
-Dagalangit, Momit
-Jomoc, Svenska
-Maghinay, Glace Marie
-Oga, Franco
-Padilla, Quentin
-Tumala, Michael
 
 E-COMMERCE WEBSITE
 
